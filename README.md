@@ -1,13 +1,38 @@
-# 🌍 Energy & Macroeconomics Analytics Portfolio
+# Energy Analytics Portfolio
 
-Καλώς ήρθατε στο portfolio μου. Εδώ αναλύω δεδομένα που αφορούν τη μακροοικονομία, την ενεργειακή μετάβαση (ESG) και τις μεταφορές, συνδυάζοντας το οικονομικό μου υπόβαθρο με εργαλεία Business Intelligence.
+Welcome to my professional analytics portfolio.
 
-## 📊 Projects
+This repository documents my journey toward becoming a Business & Data Analyst, with a focus on:
 
-### 1. Macroeconomics & Energy Transition (Σε εξέλιξη)
-* **Στόχος:** Ανάλυση της "αποσύνδεσης" (decoupling) της οικονομικής ανάπτυξης (ΑΕΠ) από τις εκπομπές CO2 στην Ευρώπη.
-* **Εργαλεία:** Power BI, Power Query, Excel.
-* **Πηγές Δεδομένων:** World Bank, Our World in Data.
+- Energy Economics
+- Economic Development
+- Transport Analytics
+- Sustainability
+- Business Intelligence
+- Data Visualization
 
-### 2. EV Fleet Cost-Benefit Analysis (Προσεχώς)
-* **Στόχος:** TCO (Total Cost of Ownership) ανάλυση για τη μετάβαση εταιρικού στόλου οχημάτων στην ηλεκτροκίνηση.
+## Skills
+
+- SQL
+- Power BI
+- Excel
+- Python
+- Business Analytics
+
+## Repository Structure
+
+01_SQL → SQL exercises and notes
+
+02_Excel → Excel analytics
+
+03_PowerBI → Dashboards
+
+04_Projects → Complete analytics projects
+
+05_Datasets → Public datasets
+
+06_Images → Dashboard screenshots
+
+## Goal
+
+Build a professional analytics portfolio using real-world datasets from Eurostat, World Bank and other public sources.
